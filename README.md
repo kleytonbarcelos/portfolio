@@ -1,5 +1,19 @@
 # Portfolio
 
+### Mpbile Apps (Android / IOS)
+UFES Alegre
+![UFESAlegre1](https://user-images.githubusercontent.com/8316624/97312084-76311f80-183b-11eb-8f51-c1a94ee1fdd9.png)
+Mobile app for University (UFES) that helps students to know a lot of information about the campus, like a: News about the campus, University Restaurant, Student Portal, Telephone Contacts and etc.
+
+Drink Water Be Healthy
+![DrinkWater1](https://user-images.githubusercontent.com/8316624/97312000-63b6e600-183b-11eb-8e0f-2703b570bd14.png)
+The best hydration app, with daily alerts to remind you
+https://drinkwaterbehealthy.com/
+
+
+
+![UFESAlegre1](https://user-images.githubusercontent.com/8316624/97312084-76311f80-183b-11eb-8f51-c1a94ee1fdd9.png)
+
 ### Back-End (PHP Codeiginiter 3 / ReactJS)
 Health Records
 ![4](https://user-images.githubusercontent.com/8316624/39312896-a0a6e12e-493e-11e8-8bf5-d8b6275ff929.jpg)
