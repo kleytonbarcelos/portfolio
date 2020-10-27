@@ -1,19 +1,21 @@
 # Portfolio
 
 ### Mobile Apps (Android / IOS)
-<br />
+
     ::: UFES Alegre
-<br />
+    
 ![UFESAlegre1](https://user-images.githubusercontent.com/8316624/97312084-76311f80-183b-11eb-8f51-c1a94ee1fdd9.png)
-<br />
+
+
 Mobile application for University (UFES) that helps students to know various information about the campus, such as: News about the campus, University Restaurant, Student Portal, Telephone Contacts and etc.
-<br /><br />
+
     ::: Drink Water Be Healthy
-<br />
+    
 ![DrinkWater1](https://user-images.githubusercontent.com/8316624/97312000-63b6e600-183b-11eb-8e0f-2703b570bd14.png)
-<br />
+
 The best hydration app, with daily alerts to remind you
 https://drinkwaterbehealthy.com/
+
 
 ### Back-End (PHP Codeiginiter 3 / ReactJS)
 Health Records
